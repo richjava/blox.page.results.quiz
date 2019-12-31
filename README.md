@@ -1,6 +1,6 @@
-# blox.page.quiz.quiz
+# blox.page.results.quiz
 
-A [Building Blox](https://github.com/Building-Blox/building-blox) landing page for quiz package.
+A [Building Blox](https://github.com/Building-Blox/building-blox) results page for quiz package.
 
 ## Blocks
 None
